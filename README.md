@@ -1,2 +1,0 @@
-# gurudev
-Spring
